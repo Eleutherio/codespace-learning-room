@@ -1,2 +1,2 @@
-# Java-codespace--test
-Java learning content with codespace from Github
+# codespace-test
+Learning content with Codespaces from Github
