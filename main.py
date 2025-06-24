@@ -1,5 +1,9 @@
-print("Bem-vindo ao SimpleBank")
 
+import math as Matemática
+
+
+
+print("Bem-vindo ao SimpleBank")
 Saldo_CC = 0
 Usuario = "Guilherme"
 Extrato = 3
@@ -7,6 +11,7 @@ Saque = 2
 Deposito = 1
 menu = [Extrato, Saque, Deposito]
 UsuarioSelecionouOpçao = False
+
 
 def authenticator(input_usuario):
     if input_usuario == Usuario:
